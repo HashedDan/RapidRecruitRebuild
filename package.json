@@ -1,0 +1,22 @@
+{
+  "name": "rapidrecruitrebuild",
+  "version": "1.0.0",
+  "description": "Rebuild of the Rapid Recruit App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashedDan/RapidRecruitRebuild.git"
+  },
+  "author": "Daniel Mangum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HashedDan/RapidRecruitRebuild/issues"
+  },
+  "homepage": "https://github.com/HashedDan/RapidRecruitRebuild#readme",
+  "dependencies": {
+    "angular": "^5.0.0"
+  }
+}
